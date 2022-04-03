@@ -1,1 +1,1 @@
-This file is full of linked lists forc++ 
+This file is full of linked lists for c++ 
